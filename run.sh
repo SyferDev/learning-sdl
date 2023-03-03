@@ -1,0 +1,1 @@
+make && clear && ./build/debug/play
